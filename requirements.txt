@@ -5,3 +5,5 @@ notebook
 matplotlib
 seaborn
 scipy
+#tensorflow
+#mrx-link==0.8.2
